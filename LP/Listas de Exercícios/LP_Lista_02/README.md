@@ -17,6 +17,7 @@ Para mais informações acesse [Aula 03: Fluxogramas.](https://cainaantunes.noti
 ***
 
 1. Ler um número inteiro e exibir o seu dobro.
+int 
 
 2. Ler um número inteiro e exibir o seu quadrado.
 
