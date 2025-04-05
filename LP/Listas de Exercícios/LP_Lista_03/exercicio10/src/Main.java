@@ -12,7 +12,6 @@ public class Main {
         n2 = in.nextDouble();
         System.out.println("Digite o valor de n3:");
         n3 = in.nextDouble();
-        vector = {n1, n2, n3};
 
         if (n1 < n2 && n1 < n3)
         {
@@ -33,11 +32,15 @@ public class Main {
         {
             if (n1 < n3)
             {
-                System.out.println(n2 + n1 + n3);
+                System.out.println(n2);
+                System.out.println(n1);
+                System.out.println(n3);
             }
             else
             {
-                System.out.println((n2) + (n3) + (n1));
+                System.out.println(n2);
+                System.out.println(n3);
+                System.out.println(n1);
             }
         }
         else if (n3 < n1 && n3 < n2)
@@ -51,7 +54,7 @@ public class Main {
             else
             {
                 System.out.println(n3);
-                System.out.println(n2;
+                System.out.println(n2);
                 System.out.println(n1);
             }
         }
@@ -59,15 +62,21 @@ public class Main {
         {
             if (n1 == n2 && n1 < n3 && n2 < n3)
             {
-                System.out.println(n1 + n2 + n3);
+                System.out.println(n1);
+                System.out.println(n2);
+                System.out.println(n3);
             }
             else if (n1 == n3 & n1 < n2 && n3 < n2)
             {
-                System.out.println(n1 + n3+ n2);
+                System.out.println(n1);
+                System.out.println(n3);
+                System.out.println(n2);
             }
             else if (n2 == n3 && n2 < n1 && n3 < n1)
             {
-                System.out.println(n2 + n3+ n1);
+                System.out.println(n2);
+                System.out.println(n3);
+                System.out.println(n1);
             }
         }
     }
