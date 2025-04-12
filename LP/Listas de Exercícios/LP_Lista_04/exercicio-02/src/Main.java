@@ -4,46 +4,43 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args)
     {
-        int i, n1, n2, n3, n4, n5;
+
         Scanner in = new Scanner(System.in);
-        System.out.println("Digite 5 numeros:");
-        n1 = in.nextInt();
-        n2 = in.nextInt();
-        n3 = in.nextInt();
-        n4 = in.nextInt();
-        n5 = in.nextInt();
-        i = 0;
+        int maior = Integer.MIN_VALUE;
+        int menor = Integer.MAX_VALUE;
+        int n1, n2, n3, n4, n5;
 
-        while (i <= 5)
-        {
-            for(int = )
-            if(i == n1 && n1<n2 && n1<n3 && n1<n4 && n1<n5)
-            {
-                System.out.println("numero menor é: " + n1);
+        for (int i = 0; i <= 5; i++) {
+            System.out.println("Digite 5 números inteiros:");
+            n1 = in.nextInt();
+            n2 = in.nextInt();
+            n3 = in.nextInt();
+            n4 = in.nextInt();
+            n5 = in.nextInt();
 
-            }
-            else if (i == n2 && n2<n1 && n2<n3 && n2<n4 && n2<n5)
+            if (n1 < n2 && n1 < n3 && n1 < n4 && n1 < n5)
             {
-                System.out.println("numero menor é: " + n2);
+                menor = n1;
+            }
+            else if (n2 < n1 && n2 < n3 && n2 < n4 && n2 < n5) {
+                menor = n2;
+            }
+            else if (n3 < n1 && n3 < n2 && n3 < n4 && n3 < n5) {
+                menor = n3;
+            }
+            else if (n4 < n1 && n4 < n2 && n4 < n3 && n4 < n5) {
+                menor = n4;
+            }
+            else if (n5 < n1 && n5 < n2 && n5 < n3 && n5 < n4) {
+                menor = n5;
+            }else {
+                System.out.println("Numero invalido!");
+            }
 
-            }
-            else if (i == n3 && n3<n1 && n3<n2 && n3<n4 && n3<n5)
-            {
-                System.out.println("numero menor é: " + n3);
 
-            }
-            else if (i == n4 && n4<n1 && n4<n2 && n4<n3 && n4<n5)
-            {
-                System.out.println("numero menor é: " + n4);
-            }
-            else if (i == n5 && n5<n1 && n5<n2 && n5<n3 && n5<n4)
-            {
-                System.out.println("numero menor é: " + n5);
-            }
-            else {
-                System.out.println("");
-            }
-            i++;
+        System.out.println("\nResultado:");
+        System.out.println("Maior número digitado: " + maior);
+        System.out.println("Menor número digitado: " + menor);
 
         }
 
