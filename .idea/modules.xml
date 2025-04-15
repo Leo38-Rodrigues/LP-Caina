@@ -5,8 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/Linguagem de programação - Cainã.iml" filepath="$PROJECT_DIR$/Linguagem de programação - Cainã.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-01/exercicio-01.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-01/exercicio-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-02/exercicio-02.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-02/exercicio-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-03/exercicio-03.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-03/exercicio-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-04/exercicio-04.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-04/exercicio-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-05/exercicio-05.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-05/exercicio-05.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-07/exercicio-07.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-07/exercicio-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-08/exercicio-08.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-08/exercicio-08.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/exercicio01/exercicio01.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/exercicio01/exercicio01.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/exercicio02/exercicio02.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/exercicio02/exercicio02.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/exercicio03/exercicio03.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_03/exercicio03/exercicio03.iml" />
@@ -42,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercicio_18/exercicio_18.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercicio_18/exercicio_18.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercicio_19/exercicio_19.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercicio_19/exercicio_19.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercicio_20/exercicio_20.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_02/exercicio_20/exercicio_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP/vetores/vetores.iml" filepath="$PROJECT_DIR$/LP/vetores/vetores.iml" />
     </modules>
   </component>
 </project>
