@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_06/01_exe/01_exe.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_06/01_exe/01_exe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_06/02_exe/02_exe.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_06/02_exe/02_exe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_06/03_exe/03_exe.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_06/03_exe/03_exe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_06/04_exe/04_exe.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_06/04_exe/04_exe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_06/05_exe/05_exe.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_06/05_exe/05_exe.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_05/1_exercicio/1_exercicio.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_05/1_exercicio/1_exercicio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LP.iml" filepath="$PROJECT_DIR$/.idea/LP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_05/exe_1/exe_1.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_05/exe_1/exe_1.iml" />
@@ -14,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_05/exe_7/exe_7.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_05/exe_7/exe_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_05/exe_8/exe_8.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_05/exe_8/exe_8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_05/exe_9/exe_9.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_05/exe_9/exe_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas de Exercícios/LP_Lista_06/function/function.iml" filepath="$PROJECT_DIR$/Listas de Exercícios/LP_Lista_06/function/function.iml" />
     </modules>
   </component>
 </project>
