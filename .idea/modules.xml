@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/01_exe_recursividade/01_exe_recursividade.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_06/01_exe_recursividade/01_exe_recursividade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linguagem de programação - Cainã.iml" filepath="$PROJECT_DIR$/Linguagem de programação - Cainã.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-01/exercicio-01.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-01/exercicio-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-02/exercicio-02.iml" filepath="$PROJECT_DIR$/LP/Listas de Exercícios/LP_Lista_04/exercicio-02/exercicio-02.iml" />
